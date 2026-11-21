@@ -88,5 +88,5 @@ Production-focused Software & Machine Learning Engineer specializing in architec
 
 ### 📊 GitHub Analytics
 
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad144247&show_icons=true&theme=radical&hide_border=true)
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad144247&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saad144247&layout=compact&theme=radical&hide_border=true&hide=html,css,ejs)
